@@ -1,0 +1,16 @@
+---
+title: "Website"
+author: "Kimberly Lopez"
+date: "2024-10-17"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Information about this website
+
+This website is an example for "Making Websites"
+
+
+If you want to learn more about a website, visit [this page](about.html)
