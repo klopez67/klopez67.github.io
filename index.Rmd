@@ -1,7 +1,6 @@
 ---
 title: "Website"
 author: "Kimberly Lopez"
-date: "2024-10-17"
 output: 
   html_document:
     toc: true
