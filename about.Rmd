@@ -7,8 +7,8 @@ output:
     theme: cerulean
 ---
 
-# This is Jeff's awesome website
+# This is an awesome website
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+![](https://www.womansworld.com/wp-content/uploads/2024/08/cute-cats.jpg?w=953&quality=86&strip=all)
 
 
