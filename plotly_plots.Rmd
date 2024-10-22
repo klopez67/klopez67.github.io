@@ -1,13 +1,12 @@
 ---
 title: "Plotly"
-author: "Kimberly Lopez"
-date: "2024-10-22"
 output: 
   html_document:
     toc: true
     toc_float: true
     theme: cerulean
---- 
+---
+
 Interactivity plots in ploty 
 ```{r include=FALSE}
 library(tidyverse)
@@ -71,3 +70,6 @@ nyc_airbnb |>
 
 Now do a barchart with number of rentals. 
 To do this we need to create a count variable 
+
+
+

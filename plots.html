@@ -335,7 +335,7 @@ div.tocify {
   <a href="dashboard.html">Dashboard</a>
 </li>
 <li>
-  <a href="plotly_flex_dashboard.html">Plotly</a>
+  <a href="plotly_plots.html">Plotly</a>
 </li>
 <li>
   <a href="mailto:kp2809@cumc.columbia.edu">
@@ -366,6 +366,19 @@ div.tocify {
 
 
 <p>#test</p>
+<div id="here-are-some-plots" class="section level1">
+<h1>Here are some plots</h1>
+<pre class="r"><code>library(tidyverse)
+df = tibble( 
+  x= rnorm(100,2,5),
+  y = 1+2*x-.5*x^2+rnorm(100)
+  )
+
+df|&gt;
+  ggplot(aes(x=x,y=y))+
+  geom_point()</code></pre>
+<p><img src="plots_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
+</div>
 
 
 
