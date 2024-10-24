@@ -9,7 +9,7 @@ output:
 
 # Information about this website
 
-This website is an example for "Making Websites"
+This website was created by Kimberly Palaguachi-Lopez
 
 
 If you want to learn more about a website, visit [this page](about.html)
