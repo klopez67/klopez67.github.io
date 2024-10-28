@@ -9,12 +9,9 @@ output:
     theme: cerulean
 ---
 
+# Plot: Normal Distribution
 
-#test
-
-
-# Here are some plots 
-```{r, message = FALSE}
+```{r echo=FALSE, message=FALSE}
  
 library(tidyverse)
 df = tibble( 
@@ -24,6 +21,10 @@ df = tibble(
 
 df|>
   ggplot(aes(x=x,y=y))+
-  geom_point()
+  geom_point()+ 
+  labs(
+    caption = "Randomly generated values from the Normal distribution with mean of 2 and standard deviation of 5"
+  )
+  
 ```
 

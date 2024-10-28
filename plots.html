@@ -335,6 +335,9 @@ div.tocify {
   <a href="dashboard.html">Dashboard</a>
 </li>
 <li>
+  <a href="dashboard_2.html">Dashboard 2</a>
+</li>
+<li>
   <a href="plotly_plots.html">Plotly</a>
 </li>
 <li>
@@ -365,18 +368,8 @@ div.tocify {
 </div>
 
 
-<p>#test</p>
-<div id="here-are-some-plots" class="section level1">
-<h1>Here are some plots</h1>
-<pre class="r"><code>library(tidyverse)
-df = tibble( 
-  x= rnorm(100,2,5),
-  y = 1+2*x-.5*x^2+rnorm(100)
-  )
-
-df|&gt;
-  ggplot(aes(x=x,y=y))+
-  geom_point()</code></pre>
+<div id="plot-normal-distribution" class="section level1">
+<h1>Plot: Normal Distribution</h1>
 <p><img src="plots_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
 </div>
 
