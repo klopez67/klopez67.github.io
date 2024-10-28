@@ -1,5 +1,5 @@
 ---
-title: "My awesome website"
+title: "About"
 output: 
   html_document:
     toc: true
@@ -7,14 +7,17 @@ output:
     theme: cerulean
 ---
 
-# This is an awesome website
+# Introduction 
 
-![](https://www.womansworld.com/wp-content/uploads/2024/08/cute-cats.jpg?w=953&quality=86&strip=all)
+Kimberly Lopez is currently a graduate student persuing her Masters of Science in Biostatsitics - Health Data Science track at Columbia University Mailman School of Public Health.
+
+# Academic and Professional Experince
+
+<iframe src="Lopez_Kimberly_CV (2024).docx.pdf" width="100%" height="600px"></iframe>
 
 
-# Resume
-
-If you want to learn more about my accomplishments, visit my [Linkedin](www.linkedin.com/in/kimberly-palaguachi-lopez2024)
+# Social network
+If you want to learn more about my accomplishments, visit my [Linkedin](https://www.linkedin.com/in/kimberly-palaguachi-lopez2024).
 
 
 

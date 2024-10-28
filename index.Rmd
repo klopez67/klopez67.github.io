@@ -9,7 +9,19 @@ output:
 
 # Information about this website
 
-This website was created by Kimberly Palaguachi-Lopez
+This website was created by Kimberly Palaguachi-Lopez. 
 
 
-If you want to learn more about a website, visit [this page](about.html)
+If you want to learn more about the creator of this website, visit [this page](about.html)
+
+You can also navigate through: 
+
+-  The [plots](plots.html) page which displays a scatter plot of randomly generated values from the Normal distribution. 
+- The [dashboard](dashboard.html) page which displays three dashboard of NYC Air bnd data: 
+  - Chart A: the distribution of prices in NYC neighborhoods
+  - Chart B: the geographical location and prices of rentals in Manhatten, NY 
+  - Chart C: the amount of AirBnB rentals in NYC neighborhoods
+
+- The [plotly](plotly_plots.html) page which shows more iterative plots of the same NYC Airbnb data.
+
+![](https://www.womansworld.com/wp-content/uploads/2024/08/cute-cats.jpg?w=953&quality=86&strip=all)
