@@ -17,11 +17,12 @@ If you want to learn more about the creator of this website, visit [this page](a
 You can also navigate through: 
 
 -  The [plots](plots.html) page which displays a scatter plot of randomly generated values from the Normal distribution. 
-- The [dashboard](dashboard.html) page which displays three dashboard of NYC Air bnd data: 
+- The [dashboard](dashboard.html) page which displays three dashboard of NYC AirBnB data: 
   - Chart A: the distribution of prices in NYC neighborhoods
-  - Chart B: the geographical location and prices of rentals in Manhatten, NY 
+  - Chart B: the geographical location and prices of rentals in Manhattan, NY 
   - Chart C: the amount of AirBnB rentals in NYC neighborhoods
 
-- The [plotly](plotly_plots.html) page which shows more iterative plots of the same NYC Airbnb data.
+- The [plotly](plotly_plots.html) page which shows more iterative plots of the same NYC AirBnB data.
+- [Dashboard 2](dashboard_2.html) shows three plots of data from the NY restaurant inspection data.
 
 ![](https://www.womansworld.com/wp-content/uploads/2024/08/cute-cats.jpg?w=953&quality=86&strip=all)
